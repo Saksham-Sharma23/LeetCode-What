@@ -39,4 +39,6 @@ b.right = e
 c.left = f
 c.right = g
 
+
+print(c == a.left)
 a.preorder()
